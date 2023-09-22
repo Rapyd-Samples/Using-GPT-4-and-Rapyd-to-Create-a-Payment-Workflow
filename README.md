@@ -56,7 +56,8 @@ This is a sample application and should not be used as is in production. Make su
 
 ## Further Reading
 
-[Rapyd API Documentation](https://docs.rapyd.net/en/index-en.html)
-[Flask Documentation](https://flask.palletsprojects.com/en/latest/)
+* [Rapyd API Documentation](https://docs.rapyd.net/en/index-en.html)
+
+* [Flask Documentation](https://flask.palletsprojects.com/en/latest/)
 
 For any additional queries or concerns, feel free to contact the maintainers.
