@@ -50,6 +50,10 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 MIT
 
+## Get Support	
+* https://community.rapyd.net	
+* https://support.rapyd.net	
+
 ## Disclaimer
 
 This is a sample application and should not be used as is in production. Make sure to read Rapyd's API documentation and comply with all security guidelines.
