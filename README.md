@@ -59,7 +59,7 @@ MIT
 This is a sample application and should not be used as is in production. Make sure to read Rapyd's API documentation and comply with all security guidelines.
 
 ## Further Reading
-
+* [Article Source](https://community.rapyd.net/t/can-ai-build-a-secure-payment-form-using-gpt-4-and-rapyd-to-create-a-payment-workflow/59143)
 * [Rapyd API Documentation](https://docs.rapyd.net/en/index-en.html)
 
 * [Flask Documentation](https://flask.palletsprojects.com/en/latest/)
